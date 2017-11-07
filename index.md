@@ -1,3 +1,3 @@
-# Po͡ol-to-Scho͡ol
+# Pool to School
 
 A very cool project
