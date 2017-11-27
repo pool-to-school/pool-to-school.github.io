@@ -3,7 +3,7 @@
 ## About Pool To School 
 
 Table of Contents
-About Pool to school
+
 Deployment: pooltoschool.meteorapp.com
 
 Milestone 1: https://github.com/pool-to-school/pool-to-school/projects/1
