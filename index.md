@@ -1,7 +1,6 @@
 # Pool to School
 ## A car pool service made for the University of Hawaii community
 
-Table of Contents
 Deployment: pooltoschool.meteorapp.com
 Milestone 1: https://github.com/pool-to-school/pool-to-school/projects/1
 
