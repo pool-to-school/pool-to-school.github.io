@@ -12,8 +12,8 @@ Pool to school allows for studentsto find other students that live near each oth
 # Mock up pages
 
 ## Landing Page
-<img class="ui medium right floated image" src="../images/landing1.png">
-<img class="ui medium right floated image" src="../images/landing2.png">
+<img class="ui large center floated image" src="../images/landing1.png">
+<img class="ui large center floated image" src="../images/landing2.png">
 
 ## Profile Page
 
