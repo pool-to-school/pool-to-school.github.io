@@ -1,11 +1,8 @@
 # Pool to School
-
-## About Pool To School 
+## A car pool service made for the University of Hawaii community
 
 Table of Contents
-
 Deployment: pooltoschool.meteorapp.com
-
 Milestone 1: https://github.com/pool-to-school/pool-to-school/projects/1
 
 The problem: There are too many cars and too little parking. Many students live far and many drive to school. As a result, there are many cars being driven by individual students and it’s a waste of gas and money as well as leaving no parking spaces for others.
