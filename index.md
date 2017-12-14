@@ -14,17 +14,23 @@ Pool to school allows for students to find other students that live near each ot
 (A “User Guide” section. The user guide should guide the user through all of the currently implemented functionality of the system. The user guide should include up-to-date screen shots with textual descriptions of what the user can accomplish on the page.)
 First, when you get to the Pool to School home page, you will be greeted by this page:
 **Landing Page**
+
 <img class="ui large center floated image" src="pool-to-school.github.io/images/landing1.png">
 <img class="ui large center floated image" src="pool-to-school.github.io/images/landing2.png">
 
-Here you will be able to see what you can do with Pool to School and see what some of our users have to say about their experience about the service and site. From here you can log in with your UH username and password to be able to create a profile to be able to start using 
+Here you will be able to see what you can do with Pool to School and see what some of our users have to say about their experience about the service and site. From here you can log in with your UH username and password to be able to create a profile to be able to start using.
 
 **Profile Page**
+After logging in you will be directed to the profile creation page:
+<img class="ui large center floated image" src="pool-to-school.github.io/images/profile1.png">
+<img class="ui large center floated image" src="pool-to-school.github.io/images/profile2.png">
 
 **Browsing**
+<img class="ui large center floated image" src="pool-to-school.github.io/images/best1.png">
 
 **Carpooling Schedule**
-
+<img class="ui large center floated image" src="pool-to-school.github.io/images/schedule1.png">
+<img class="ui large center floated image" src="pool-to-school.github.io/images/schedule2.png">
 
 # Community Feedback
 (A “Community Feedback” section. In this section, summarize your findings from having 5 community members try out your application.)
