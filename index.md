@@ -43,6 +43,7 @@ This is where you can see what your schedule looks like and what other people ha
 
 # Community Feedback
 Through some constructive criticism from our peers, we have realized some pros and cons about our application:
+
 **Pros:**
 - It's a neat idea that we have taken into consideration interest so that you wouldn't be sitting in a car with a stranger that you don't know
 - The layout is very simple and intuitive to use, it's pretty self explanatory
